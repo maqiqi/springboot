@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringStart
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: QQM
+Implementation-Vendor-Id: com.mqq.springBoot
+Build-Jdk: 1.8.0_112
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringStart
+Created-By: Maven Integration for Eclipse
+
